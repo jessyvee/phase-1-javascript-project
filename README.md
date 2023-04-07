@@ -10,13 +10,14 @@
 
 ## Introduction
 
-Welcome to JavaScript Project Mode!
-I will be working on a Random Quote Generator. 
+Welcome to JavaScript Project!
+I will be working on a Random Quote Generator Project. 
 This is a small app that will be generating Educative Quotes after every click.
 The app will also enable the user to be able to post each quotes generated directly to his twitter page.
 Ther app will comprise of a one page user friendly frontend where the Quotes will be displayed.
 The data displayed will be Picked from a public Api and will be randomly displayed in the display container.
 
+### Overveiw
 You’ve worked so hard to get here and have learned a ton. Now it's time to bring
 it all together!
 
